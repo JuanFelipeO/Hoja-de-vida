@@ -1,4 +1,4 @@
-#PLANTILLA DE HTML
+# PLANTILLA DE HTML
 
 La plantilla base con la que se creo la hoja de vida fue tomada del siguiente enlace:
 
