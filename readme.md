@@ -32,4 +32,4 @@ En este video explican de una forma clara como es la forma correcta de subir la 
 
 En este foro explican de una forma muy clara como se debe de subir los archivos a el github y de como se ponen de forma adecuada para poder ser publicados en el **GITHUB PAGES**.
 
-[Foro](https://github.com/JuanFelipeO/Hoja-de-vida/settings "Foro")
+[Foro](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site "Foro")
