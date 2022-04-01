@@ -14,7 +14,7 @@ Los enlaces que se presentan a continuacion son los enlaces en los que se consul
 
 En este enlace se utizo para realizar de una forma más ágil y fácil el archivo ***readme.md***.
 
-[Editor.md](http://https://pandao.github.io/editor.md/ "Editor.md")
+[Editor.md](https://pandao.github.io/editor.md/en.html "Editor.md")
 
 - ***VIDEO EXPLICATIVO DE COMO CREAR README.MD***
 
